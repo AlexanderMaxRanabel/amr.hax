@@ -1,2 +1,6 @@
 # amr.hax
-A bşg cheat library
+A big cheat library
+
+# What is amr.hax
+
+its one of the biggest cheat library on github. alll of the clients are safe and open source
