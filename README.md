@@ -7,4 +7,4 @@ its one of the biggest cheat library on github. alll of the clients are safe and
 
 # External Clients
 
-Sigma 5.0 Non-Ratted: https://www.mediafire.com/file/kn8lcf562gduhtl/Sigma5.rar/file
+Sigma 5.0 Non-Ratted: https://drive.google.com/file/d/1FkZ8YvgZFNG7WdWi5Er5SSiAyTmlh8qo/view?usp=sharing
